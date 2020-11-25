@@ -1,4 +1,4 @@
-## Computer Vision and Image Processing
+# Computer Vision and Image Processing
 
 Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy and MatPlotLib, for UOM's EN2550 Fundamentals of Image Processing and Machine Vision Module ❄
 
@@ -13,7 +13,7 @@ Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy 
 6. That's it.
 -->
 
-### *Creating a virtual environment for Computer Vision*
+# *Creating a virtual environment for Computer Vision*
 
 Complete guide can be found [here](https://youtu.be/xE8w6OQzf8w)
 
@@ -21,15 +21,15 @@ Following steps describe only the creation of virtual environments.
 
 1. Open command Prompt and follow the steps.
 
-2. Change the Directory to `C:\Python39`
+2. Change the Directory to: `C:\Python39`
 
-3. Upgrade pip `python -m pip install --upgrade pip`
+3. Upgrade pip: `python -m pip install --upgrade pip`
 
-4. Install `virtualenv` package `python -m pip install virtualenv`
+4. Install `virtualenv` package: `python -m pip install virtualenv`
 
-5. Create virtual environment `virtualenv cv`
+5. Create virtual environment: `virtualenv cv`
 
-6. Activate the cv environment `C:\Python39\cv\Scripts>activate`
+6. Activate the cv environment: `C:\Python39\cv\Scripts>activate`
 
 7. Then install the required packages
 
@@ -40,9 +40,22 @@ pip install opencv-python
 pip install jupyterlab
 ```
 
-This environment can be activated in any folder through `GIT Bash` using the following commands.
+
+
+# *Editor Configurations*
+
+## *Using Jupyter Lab*
+
+Environment created above can be activated in any folder through `GIT Bash` using the following commands.
 
 ```
 $ source /c/Python39/cv/Scripts/activate
 $ jupyter lab
 ```
+
+## *Using Visual Studio Code*
+
+### Extensions to be installed
+
+* Jupyter Extension for Visual Studio Code
+* TabNine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
