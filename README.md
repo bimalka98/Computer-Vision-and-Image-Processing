@@ -62,4 +62,6 @@ $ jupyter lab
 
 ## *References*
 
-[Slides](https://github.com/rangarodrigo/ET3112Lectures) | [Codes](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+1. [Slides](https://github.com/rangarodrigo/ET3112Lectures) and [Codes](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+2. 
+3.
