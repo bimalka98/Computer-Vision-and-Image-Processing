@@ -60,8 +60,8 @@ $ jupyter lab
 * Jupyter Extension for Visual Studio Code
 * TabNine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
 
-## *References*
+## References 📌
 
-1. [UOM's ET3112 Lecture Slides](https://github.com/rangarodrigo/ET3112Lectures) and [UOM's EN4553 CodeS](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+1. [UOM's ET3112 Lecture Slides](https://github.com/rangarodrigo/ET3112Lectures) and [UOM's EN4553 Codes](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
 2. 
 3.
