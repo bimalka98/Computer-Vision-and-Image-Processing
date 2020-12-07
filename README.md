@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://bimalka98.github.io/">
+<img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
+</a>
+
 # Computer Vision and Image Processing
 
 Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy and MatPlotLib, for UOM's EN2550 Fundamentals of Image Processing and Machine Vision Module ❄
