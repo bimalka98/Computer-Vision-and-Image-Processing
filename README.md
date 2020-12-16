@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://bimalka98.github.io/">
+<img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
+</a>
+
 # Computer Vision and Image Processing
 
 Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy and MatPlotLib, for UOM's EN2550 Fundamentals of Image Processing and Machine Vision Module ❄
@@ -59,3 +64,9 @@ $ jupyter lab
 
 * Jupyter Extension for Visual Studio Code
 * TabNine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
+
+## References 📌
+
+1. [UOM's ET3112 Lecture Slides](https://github.com/rangarodrigo/ET3112Lectures) and [UOM's EN4553 Codes](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+2. 
+3.
