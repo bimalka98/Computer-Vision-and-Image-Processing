@@ -67,6 +67,6 @@ $ jupyter lab
 
 ## References 📌
 
-1. [UOM's ET3112 Lecture Slides](https://github.com/rangarodrigo/ET3112Lectures) and [UOM's EN4553 Codes](https://github.com/rangarodrigo/EN4553Code) by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
-2. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube
-3.
+1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+
+2. *Digital Image Processing*(Third Edition) by Rafael C. Gonzalez and Richard E. Woods
