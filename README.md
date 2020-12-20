@@ -67,6 +67,6 @@ $ jupyter lab
 
 ## References 📌
 
-1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [Dr Ranga Rodrigo](http://ranga.staff.uom.lk/)
+1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [*Dr Ranga Rodrigo*](http://ranga.staff.uom.lk/)
 
 2. Digital Image Processing(Third Edition) by *Rafael C. Gonzalez* and *Richard E. Woods*
