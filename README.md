@@ -65,6 +65,15 @@ $ jupyter lab
 * Jupyter Extension for Visual Studio Code
 * TabNine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
 
+---
+# Applications
+
+|Figure|Desciption|
+|:---:|:---|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="450" />|[Smoothed Sobel gradient and Laplacian for greater Sharpening](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
+
+
+---
 ## References 📌
 
 1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [*Dr Ranga Rodrigo*](http://ranga.staff.uom.lk/)
