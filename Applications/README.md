@@ -13,3 +13,5 @@ The response of the gradient to noise and fine details is lower than the Laplaci
 ### 3. Increase the dynamic range of the intensity levels by using an intensity transformation.
 
 Histogram equalization is not likely to work well on images that have dark intensity distributions like our images have here. Histogram specification could be a solution, but the dark characteristics of the images with which we are dealing lend themselves much better to a power-law transformation i.e. Gamma Correction
+
+![Medical Img Processing](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png)
