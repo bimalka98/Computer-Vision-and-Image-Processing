@@ -18,6 +18,15 @@ Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy 
 6. That's it.
 -->
 
+# Contents
+
+1. [Creating a virtual environment for Computer Vision](#creating-a-virtual-environment-for-computer-vision)
+2. [Editor Configurations](#editor-configurations)
+3. [Applications](#applications)
+4. [References](#references-)
+
+---
+
 # *Creating a virtual environment for Computer Vision*
 
 Complete guide can be found [here](https://youtu.be/xE8w6OQzf8w)
@@ -66,15 +75,15 @@ $ jupyter lab
 * TabNine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
 
 ---
-# Applications
+# *Applications*
 
 |Figure|Desciption|
 |:---:|:---|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="1000" />|[Smoothed Sobel gradient and Laplacian for greater Sharpening](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="800" />|[Smoothed Sobel gradient and Laplacian for greater Sharpening](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
 
 
 ---
-## References 📌
+## *References* 📌
 
 1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [*Dr Ranga Rodrigo*](http://ranga.staff.uom.lk/)
 
