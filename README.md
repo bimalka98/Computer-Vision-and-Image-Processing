@@ -43,7 +43,7 @@ Following steps describe only the creation of virtual environments.
 
 7. Then install the required packages
 
-```
+```shell
 pip install numpy
 pip install matplotlib
 pip install opencv-python
@@ -58,7 +58,7 @@ pip install jupyterlab
 
 Environment created above can be activated in any folder through `GIT Bash` using the following commands.
 
-```
+```shell
 $ source /c/Python39/cv/Scripts/activate
 $ jupyter lab
 ```
