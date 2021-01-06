@@ -3,10 +3,6 @@
 <img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
 </a>
 
-# Computer Vision and Image Processing
-
-Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy and MatPlotLib, for UOM's EN2550 Fundamentals of Image Processing and Machine Vision Module ❄
-
 <!--
 ### *Add Anaconda Prompt to the Windows right click context menu.*
 
@@ -18,7 +14,7 @@ Computer Vision and Image Processing algorithms implemented using OpenCV, NumPy 
 6. That's it.
 -->
 
-# Contents
+## **Contents**🎇
 
 1. [Creating a virtual environment for Computer Vision](#creating-a-virtual-environment-for-computer-vision)
 2. [Editor Configurations](#editor-configurations)
