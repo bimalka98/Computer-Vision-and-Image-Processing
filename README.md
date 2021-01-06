@@ -14,7 +14,7 @@
 6. That's it.
 -->
 
-## **Contents**🎇
+<h2 align="center"> Contents❄ </h2>
 
 1. [Creating a virtual environment for Computer Vision](#creating-a-virtual-environment-for-computer-vision)
 2. [Editor Configurations](#editor-configurations)
