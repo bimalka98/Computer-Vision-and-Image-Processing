@@ -39,7 +39,7 @@ Following steps describe only the creation of virtual environments.
 
 5. Create virtual environment: `virtualenv cv`
 
-6. Activate the cv environment: `C:\Python39\cv\Scripts>activate`
+6. Activate the cv environment: `C:\Python39\cv\Scripts>activate cv`
 
 7. Then install the required packages
 
