@@ -39,9 +39,11 @@ Following steps describe only the creation of virtual environments.
 
 5. Create virtual environment: `virtualenv cv`
 
-6. Activate the cv environment: `C:\Python39\cv\Scripts>activate cv`
+6. Change the directory to: `C:\Python39\cv\Scripts`
 
-7. Then install the required packages
+7. Activate the ai environment: `activate cv`
+
+8. Then install the required packages
 
 ```shell
 pip install numpy
