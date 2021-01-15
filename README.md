@@ -77,8 +77,8 @@ $ jupyter lab
 
 |Figure|Desciption|
 |:---:|:---|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.JPG"  width="800" />|[Edge Detection- Laplacian of Gaussian kernel, Seperated Gradient(or Laplacian) and Gaussian Kerenels](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.ipynb)|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="800" />|[Smoothed Sobel Gradient and Laplacian for greater Sharpening of images with sensitive features](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.JPG"  width="800" />|[Edge Detection- Laplacian of Gaussian kernel, Seperated Gradient(or Laplacian) and Gaussian Kerenels](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="800" />|[Smoothed Sobel Gradient and Laplacian for greater Sharpening of images with sensitive features](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
 
 
 
