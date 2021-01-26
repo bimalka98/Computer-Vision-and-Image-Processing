@@ -20,7 +20,7 @@
 2. [Editor Configurations](#editor-configurations)
 3. [Applications](#applications)
 4. [References](#references-)
-5. [LICENSE](#license)
+5. [License](#license)
 
 ---
 
@@ -93,4 +93,4 @@ $ jupyter lab
 
 ## *LICENSE*
 
-[MIT License Copyright (c) 2021 BIMALKA PIYARUWAN](#LICENSE)
+[MIT License Copyright (c) 2021 BIMALKA PIYARUWAN](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/LICENSE)
