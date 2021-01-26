@@ -20,6 +20,7 @@
 2. [Editor Configurations](#editor-configurations)
 3. [Applications](#applications)
 4. [References](#references-)
+5. [LICENSE](#license)
 
 ---
 
@@ -77,9 +78,9 @@ $ jupyter lab
 
 |Figure|Desciption|
 |:---:|:---|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.JPG"  width="800" />|[Edge Detection- Laplacian of Gaussian kernel, Seperated Gradient(or Laplacian) and Gaussian Kerenels](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.ipynb)|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="800" />|[Smoothed Sobel Gradient and Laplacian for greater Sharpening of images with sensitive features](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
-|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection.png"  width="800" />|[Corner Detection Algorithm from Scratch: Using Scharr function for gradient and Corner Response function for detecting corners](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection%20CRF.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.JPG"  width="600" />|[Edge Detection- Laplacian of Gaussian kernel, Seperated Gradient(or Laplacian) and Gaussian Kerenels](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Edge%20Detection.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.png"  width="600" />|[Smoothed Sobel Gradient and Laplacian for greater Sharpening of images with sensitive features](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Smoothed%20Sobel%20gradient%20and%20Laplacian%20for%20greater%20Sharpening.ipynb)|
+|<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection.png"  width="600" />|[Corner Detection Algorithm from Scratch: Using Scharr function for gradient and Corner Response function for detecting corners](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection%20CRF.ipynb)|
 
 ---
 
@@ -88,3 +89,8 @@ $ jupyter lab
 1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [*Dr Ranga Rodrigo*](http://ranga.staff.uom.lk/)
 
 2. Digital Image Processing(Third Edition) by *Rafael C. Gonzalez* and *Richard E. Woods*
+3. 
+
+## *LICENSE*
+
+[MIT License Copyright (c) 2021 BIMALKA PIYARUWAN](#LICENSE)
