@@ -19,8 +19,9 @@
 1. [Creating a virtual environment for Computer Vision](#creating-a-virtual-environment-for-computer-vision)
 2. [Editor Configurations](#editor-configurations)
 3. [Applications](#applications)
-4. [References](#references-)
-5. [License](#license)
+4. [Assignments](#assignments)
+5. [References](#references-)
+6. [License](#license)
 
 ---
 
@@ -83,6 +84,13 @@ $ jupyter lab
 |<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection.png"  width="600" />|[Corner Detection Algorithm from Scratch: Using Scharr function for gradient and Corner Response function for detecting corners](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/Applications/Corner%20Detection%20CRF.ipynb)|
 |<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/ricecount.PNG"  width="600" />|[Counting the rice grains in the rice image](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/180631J_a01.ipynb#Part-2:-Count-the-rice-grains-in-the-rice-image)|
 |<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/zoom.PNG"  width="600" /> | [Nearest Neighbor and Bi-linear Interpolation methods of Image Zooming.](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/part3.ipynb)|
+
+---
+
+# *Assignments*
+
+1. EN2550 Assignment 1 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/LaTeX%20Report/180631J_a01.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/180631J_a01.ipynb)
+
 
 ---
 
