@@ -99,9 +99,9 @@ $ jupyter lab
 ## *References* 📌
 
 1. [Fundamentals of Image Processing and Computer Vision](https://youtube.com/playlist?list=PLELEBz6g6MJanTKBAUJni8FTa8FC8gqGP) On Youtube by [*Dr Ranga Rodrigo*](http://ranga.staff.uom.lk/)
-
 2. Digital Image Processing(Third Edition) by *Rafael C. Gonzalez* and *Richard E. Woods*
-3. 
+3. Computer Vision Algorithms and Applications by *Richard Szeliski*
+4. Multiple View Geometry in Computer Vision(Second Edition)  by *Richard Hartley* and *Andrew Zisserman*
 
 ## *LICENSE*
 
