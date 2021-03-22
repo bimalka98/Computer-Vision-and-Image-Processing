@@ -93,6 +93,9 @@ $ jupyter lab
 
 1. EN2550 Assignment 1 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/LaTeX%20Report/180631J_a01.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/180631J_a01.ipynb)
 2. EN2550 Assignment 2 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/LaTeX%20Report/180631J_a02.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/180631J_a02.ipynb)
+3.
+4. EN2550 Assignment 4 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A4/LaTeX%20Report/180631J_a04.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A4/180631J_a04.ipynb)
+
 
 ---
 
