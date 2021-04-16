@@ -1,13 +1,13 @@
 # Camera Calibration: MATLAB Camera Calibrator
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png"  width="600"/>
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png" />
 </p>
 
 
 ```
- Standard Errors of Estimated Camera Parameters of a Huawei Y5-2017 Back Camera
---------------------------------------------------------------------------------			
+ Standard Errors of Estimated Camera Parameters of a Huawei Y5-2017 Phone's Back Camera
+---------------------------------------------------------------------------------------			
 
 Intrinsics
 ----------
@@ -63,15 +63,15 @@ Translation vectors (millimeters):
 ```
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showExtrinsics.png"  width="600"/>
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showExtrinsics.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png"  width="600"/>
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png" />
 </p>
 
 
-## Converting Focal Length from Pixels to Millimeters: (Not sure)
+## Converting Focal Length from Pixels to Millimeters: (Have to be done)
 
 1. To convert a known focal length in pixels to mm:
 
