@@ -63,11 +63,11 @@ Translation vectors (millimeters):
 ```
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showExtrinsics.png" />
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showExtrinsics.png" width="700px"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png" />
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png" width="700px" />
 </p>
 
 
