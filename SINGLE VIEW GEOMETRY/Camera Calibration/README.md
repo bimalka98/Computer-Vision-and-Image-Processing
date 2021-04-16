@@ -1,18 +1,23 @@
 # Camera Calibration: MATLAB Camera Calibrator
 
+<p align="center">
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png"  width="600"/>
+</p>
+
+
 ```
-Standard Errors of Estimated Camera Parameters of My Laptops Camera
-Webcam Name: USB2.0 HD UVC WebCam
-----------------------------------------------
+Standard Errors of Estimated Camera Parameters of My Laptop's Webcam Name: USB2.0 HD UVC WebCam
+------------------------------------------------------------------------------------------------
 
 Intrinsics
-----------
-Focal length (pixels):    [ 950.2569 +/- 1.2369 953.0092 +/- 1.2973 ]
-Principal point (pixels): [ 631.3673 +/- 0.8360 372.1849 +/- 0.7246 ]
-Radial distortion:        [ 0.0233 +/- 0.0053 -0.0725 +/- 0.0227 ]
+------------------------------------------------------------------------------------------------
+Focal length (pixels):    [ 950.2569 +/- 1.2369     953.0092 +/- 1.2973 ]
+Principal point (pixels): [ 631.3673 +/- 0.8360     372.1849 +/- 0.7246 ]
+Radial distortion:        [ 0.0233 +/- 0.0053       -0.0725 +/- 0.0227  ]
+
 
 Extrinsics
-----------
+------------------------------------------------------------------------------------------------
 Rotation vectors:
 
 [ -0.0461 +/- 0.0043 0.0667 +/- 0.0043 1.5634 +/- 0.0004 ]
