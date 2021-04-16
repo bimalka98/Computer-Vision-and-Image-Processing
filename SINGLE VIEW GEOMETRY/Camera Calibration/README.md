@@ -64,12 +64,15 @@ Translation vectors (millimeters):
 ```
 
 
-## Converting Focal Length from Pixels to Millimeters
+## Converting Focal Length from Pixels to Millimeters: (Not sure)
 
-To convert a known focal length in pixels to mm:
+1. To convert a known focal length in pixels to mm:
 
 F(mm) = F(pixels) * SensorWidth(mm) / ImageWidth (pixel).
 
 For an X4S, the image width in pixels is 5472. Context Capture indicates the sensor width is 13.2 mm, so the equation is simply:
 
 F(mm) = F(pixels) * 13.2 / 5472;
+
+2. can find the focal length(mm) by multiplying the size of the pixel on the sensor by the focal length(pixel)
+
