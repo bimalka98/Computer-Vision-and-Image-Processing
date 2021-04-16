@@ -1,18 +1,23 @@
 # Camera Calibration: MATLAB Camera Calibrator
 
+<p align="center">
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png"  width="600"/>
+</p>
+
+
 ```
-Standard Errors of Estimated Camera Parameters of My Laptops Camera
-Webcam Name: USB2.0 HD UVC WebCam
-----------------------------------------------
+Standard Errors of Estimated Camera Parameters of My Laptop's Webcam Name: USB2.0 HD UVC WebCam
+------------------------------------------------------------------------------------------------
 
 Intrinsics
-----------
-Focal length (pixels):    [ 950.2569 +/- 1.2369 953.0092 +/- 1.2973 ]
-Principal point (pixels): [ 631.3673 +/- 0.8360 372.1849 +/- 0.7246 ]
-Radial distortion:        [ 0.0233 +/- 0.0053 -0.0725 +/- 0.0227 ]
+------------------------------------------------------------------------------------------------
+Focal length (pixels):    [ 950.2569 +/- 1.2369     953.0092 +/- 1.2973 ]
+Principal point (pixels): [ 631.3673 +/- 0.8360     372.1849 +/- 0.7246 ]
+Radial distortion:        [ 0.0233 +/- 0.0053       -0.0725 +/- 0.0227  ]
+
 
 Extrinsics
-----------
+------------------------------------------------------------------------------------------------
 Rotation vectors:
 [ -0.0461 +/- 0.0043 0.0667 +/- 0.0043 1.5634 +/- 0.0004 ]
 [ 0.5741 +/- 0.0017 0.6283 +/- 0.0016 1.4713 +/- 0.0005 ]
@@ -58,12 +63,15 @@ Translation vectors (millimeters):
 ```
 
 
-## Converting Focal Length from Pixels to Millimeters
+## Converting Focal Length from Pixels to Millimeters: (Not sure)
 
-To convert a known focal length in pixels to mm:
+1. To convert a known focal length in pixels to mm:
 
 F(mm) = F(pixels) * SensorWidth(mm) / ImageWidth (pixel).
 
 For an X4S, the image width in pixels is 5472. Context Capture indicates the sensor width is 13.2 mm, so the equation is simply:
 
 F(mm) = F(pixels) * 13.2 / 5472;
+
+2. can find the focal length(mm) by multiplying the size of the pixel on the sensor by the focal length(pixel)
+
