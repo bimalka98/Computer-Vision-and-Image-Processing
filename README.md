@@ -104,6 +104,7 @@ $ jupyter lab
 2. Digital Image Processing(Third Edition) by *Rafael C. Gonzalez* and *Richard E. Woods*
 3. Computer Vision Algorithms and Applications by *Richard Szeliski*
 4. Multiple View Geometry in Computer Vision(Second Edition)  by *Richard Hartley* and *Andrew Zisserman*
+5. [MatPlotLib Cheat Sheet](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/matplotlib-cheatsheet.pdf)
 
 ## *LICENSE*
 
