@@ -2,10 +2,11 @@
 
 > For the calibration I designed a Checkerboard pattern myself using Adobe Photoshop, which has 30mmx30mm squares. You can download it from [here](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/checkboard-30mm.pdf). Later I found that out there are checkerboard pattrens readily available on the internet😅. Here is the [link](https://markhedleyjones.com/projects/calibration-checkerboard-collection). Don't waste your time on designning the checkeboard.
 
+## With Cropped images
+
 <p align="center">
   <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png" />
 </p>
-
 
 ```
  Standard Errors of Estimated Camera Parameters of a Huawei Y5-2017 Phone's Back Camera
@@ -72,6 +73,71 @@ Translation vectors (millimeters):
   <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png" width="700px" />
 </p>
 
+---
+
+## Without Cropping the images
+
+<p align="center">
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc2.png" />
+</p>
+
+```
+			Standard Errors of Estimated Camera Parameters of a Huawei Y5-2017 Phone's Back Camera
+			--------------------------------------------------------------------------------------
+
+Intrinsics
+----------
+Focal length (pixels):   [ 2700.1129 +/- 2.8244     2704.0118 +/- 2.6479  ]
+Principal point (pixels):[ 1179.3009 +/- 1.8586     1588.6612 +/- 1.4667  ]
+Radial distortion:       [    0.0926 +/- 0.0044       -0.2114 +/- 0.0163  ]
+
+Extrinsics
+----------
+Rotation vectors:
+                         [    0.1588 +/- 0.0033        0.0631 +/- 0.0032        1.5096 +/- 0.0004  ]
+                         [   -0.2234 +/- 0.0020        0.4752 +/- 0.0020        1.5148 +/- 0.0005  ]
+                         [    0.2675 +/- 0.0016        0.7273 +/- 0.0015        1.5628 +/- 0.0005  ]
+                         [   -0.5501 +/- 0.0016       -0.0713 +/- 0.0017        1.3859 +/- 0.0005  ]
+                         [    0.5973 +/- 0.0013       -0.3509 +/- 0.0012        1.4462 +/- 0.0005  ]
+                         [    0.7129 +/- 0.0011        0.5485 +/- 0.0009        1.4374 +/- 0.0003  ]
+                         [   -0.3825 +/- 0.0010       -0.5195 +/- 0.0010        1.4603 +/- 0.0004  ]
+                         [    0.5176 +/- 0.0016       -0.3308 +/- 0.0015        1.5007 +/- 0.0004  ]
+                         [    0.0257 +/- 0.0014       -0.4419 +/- 0.0013       -0.0002 +/- 0.0003  ]
+                         [    0.0536 +/- 0.0011        0.7438 +/- 0.0011       -0.0341 +/- 0.0004  ]
+                         [   -0.1150 +/- 0.0022        0.4484 +/- 0.0022        1.5657 +/- 0.0005  ]
+                         [   -0.4369 +/- 0.0012       -0.3818 +/- 0.0012        1.4392 +/- 0.0004  ]
+                         [    0.7449 +/- 0.0011        0.5763 +/- 0.0010        1.4086 +/- 0.0004  ]
+                         [    0.0326 +/- 0.0014       -0.6226 +/- 0.0012        1.5766 +/- 0.0005  ]
+                         [    0.1588 +/- 0.0025       -0.0428 +/- 0.0025        1.5457 +/- 0.0004  ]
+                         [   -0.2892 +/- 0.0013        0.4623 +/- 0.0012        1.5130 +/- 0.0004  ]
+                         [    0.0113 +/- 0.0011        0.7785 +/- 0.0010        0.0270 +/- 0.0004  ]
+                         [    0.3784 +/- 0.0010       -0.4751 +/- 0.0010        0.0885 +/- 0.0004  ]
+                         [    0.3874 +/- 0.0008        0.7383 +/- 0.0008       -0.1240 +/- 0.0003  ]
+                         [   -0.8528 +/- 0.0010        0.1070 +/- 0.0010       -0.0451 +/- 0.0005  ]
+
+Translation vectors (millimeters):
+                         [  155.9579 +/- 0.3677     -149.0883 +/- 0.2884      504.5399 +/- 0.7126  ]
+                         [  176.5537 +/- 0.4447     -123.4080 +/- 0.3533      639.8593 +/- 0.6801  ]
+                         [  180.8317 +/- 0.3672     -134.0703 +/- 0.2782      507.8285 +/- 0.5990  ]
+                         [   84.0470 +/- 0.4612     -136.3349 +/- 0.3649      669.0573 +/- 0.6390  ]
+                         [  119.6632 +/- 0.2727      -95.3260 +/- 0.2315      384.8297 +/- 0.5451  ]
+                         [   82.4593 +/- 0.2097     -132.8647 +/- 0.1609      290.4283 +/- 0.3903  ]
+                         [  122.0913 +/- 0.2909     -142.2950 +/- 0.2273      429.6691 +/- 0.4322  ]
+                         [  122.5745 +/- 0.2601     -161.9149 +/- 0.2392      367.3551 +/- 0.5461  ]
+                         [ -103.7371 +/- 0.2912     -130.3420 +/- 0.2271      402.5284 +/- 0.5192  ]
+                         [  -66.6782 +/- 0.3670      -95.1525 +/- 0.2852      530.3091 +/- 0.4739  ]
+                         [  152.3982 +/- 0.4281     -125.6566 +/- 0.3379      615.8554 +/- 0.6698  ]
+                         [  106.9474 +/- 0.3516     -141.9626 +/- 0.2725      515.0723 +/- 0.5021  ]
+                         [   76.2934 +/- 0.2354     -131.5001 +/- 0.1804      327.6164 +/- 0.4259  ]
+                         [  163.2290 +/- 0.3361     -122.9659 +/- 0.2729      484.1596 +/- 0.5847  ]
+                         [  123.0242 +/- 0.3248     -136.7787 +/- 0.2660      453.6079 +/- 0.6208  ]
+                         [  121.1290 +/- 0.3582     -172.0656 +/- 0.2864      520.5429 +/- 0.5245  ]
+                         [  -56.3611 +/- 0.3727      -82.7235 +/- 0.2890      537.3520 +/- 0.4719  ]
+                         [  -51.0117 +/- 0.2546      -97.1251 +/- 0.2080      355.1822 +/- 0.4898  ]
+                         [ -125.1265 +/- 0.2795     -110.6333 +/- 0.2286      418.3420 +/- 0.3920  ]
+                         [ -112.7127 +/- 0.3892      -53.8583 +/- 0.3211      577.6856 +/- 0.5495  ]
+
+```
 
 ## Converting Focal Length from Pixels to Millimeters: (Have to be done)
 
