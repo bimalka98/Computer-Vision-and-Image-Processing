@@ -2,6 +2,11 @@
 
 > For the calibration I designed a Checkerboard pattern myself using Adobe Photoshop, which has 30mmx30mm squares. You can download it from [here](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/checkboard-30mm.pdf). Later I found that out there are checkerboard pattrens readily available on the internet😅. Here is the [link](https://markhedleyjones.com/projects/calibration-checkerboard-collection). Don't waste your time on designning the checkeboard.
 
+## Useful links
+1. [The Perspective Camera - An Interactive Tour](http://ksimek.github.io/2012/08/13/introduction/)
+2. [Perspective Camera Toy](http://ksimek.github.io/perspective_camera_toy.html)
+3. [A Flexible New Technique for Camera Calibration *Zhengyou Zhang*](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
+
 ## With Cropped images
 
 <p align="center">
