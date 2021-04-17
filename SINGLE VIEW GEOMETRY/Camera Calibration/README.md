@@ -139,6 +139,27 @@ Translation vectors (millimeters):
 
 ```
 
+
+## Rotation and Translation Matrices
+There are ***6 Principal Movements*** as, rotations about 3 axes(X,Y,Z)
+and translations along 3 axes(X,Y,Z). Correct combination(*obtain by
+multiplying required principal matrices like
+*R**o**t*(*e*<sub>*i*</sub>, *θ*<sub>*m*</sub>) \* *T**r**a**n**s*(*e*<sub>*j*</sub>, *d*<sub>*k*</sub>)*)
+of these 6 principal movements can be used to get any of the advanced
+transformations, from the reference frame to object’s frame. Those basic
+matrices are as follows where *e*<sub>*i*</sub> refers to the elements
+in standard ***basis***( *e*<sub>1</sub> = \[1 0 0\]<sup>⊤</sup>,
+*e*<sub>2</sub> = \[0 1 0\]<sup>⊤</sup> and
+*e*<sub>3</sub> = \[0 0 1\]<sup>⊤</sup>) while *θ*<sub>*i*</sub>
+indicates how many degrees the object has rotated about the
+*e*<sub>*i*</sub> basis vector. Additionally *d*<sub>*i*</sub> indicates
+the displacement along the direction of *e*<sub>*i*</sub> basis
+vector(axis). 
+
+<p align="center">
+  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/rotatransmatrices.PNG" />
+</p>
+
 ## Converting Focal Length from Pixels to Millimeters: (Have to be done)
 
 1. To convert a known focal length in pixels to mm:
