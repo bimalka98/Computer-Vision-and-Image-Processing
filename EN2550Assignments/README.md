@@ -1,6 +1,6 @@
 [email](https://mail.google.com/mail/u/0/?tab=wm#inbox/FMfcgxwLswHHpsQhcJMCGFwrdMvdncJM)
 
-The university has decided to allow “multi-point assessments” instead of written final examinations. I too will adhere to this decision.
+*The university has decided to allow “multi-point assessments” instead of written final examinations. I too will adhere to this decision.*
 
 ### I have uploaded the following assignments:
 
@@ -13,7 +13,7 @@ The university has decided to allow “multi-point assessments” instead of wri
 4. A03: Cameras and multiple-view geometry
 5. A05: Segmentation
 
-We will have several quizzes, out of which I plan the take the best – e.g. , best 3 out of 5 – so that student are not penalized due to not scoring well in a couple of quizzes.
+*We will have several quizzes, out of which I plan the take the best – e.g. , best 3 out of 5 – so that student are not penalized due to not scoring well in a couple of quizzes.*
 
  
 ### Marking assessments:
