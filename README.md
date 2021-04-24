@@ -106,6 +106,7 @@ $ jupyter lab
 3. Computer Vision Algorithms and Applications by *Richard Szeliski*
 4. Multiple View Geometry in Computer Vision(Second Edition)  by *Richard Hartley* and *Andrew Zisserman*
 5. [MatPlotLib Cheat Sheet](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/matplotlib-cheatsheet.pdf)
+6. [Stanford's CS131 Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
 
 ## *LICENSE*
 
