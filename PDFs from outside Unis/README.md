@@ -17,4 +17,4 @@
 17. [Lecture 17](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture17/lecture17.pdf)
 18. [Lecture 18](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture18/lecture18.pdf)
 19. [Lecture 19](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture19/lecture19.pdf)
-20. [Lecture 20](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture20/Lecture 20.pdf)
+20. [Lecture 20](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture20/Lecture%2020.pdf)
