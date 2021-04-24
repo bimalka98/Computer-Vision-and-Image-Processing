@@ -1,6 +1,6 @@
 ## *Stanford's CS131 Computer Vision: Foundations and Applications*
 
-[Assignments](https://github.com/StanfordVL/CS131_release)
+[Assignments](https://github.com/StanfordVL/CS131_release)<br>[Syllabus](http://vision.stanford.edu/teaching/cs131_fall2021/syllabus.html)
 
 1. [Lecture 01](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture01/lecture01.pdf)
 2. [Lecture 02](https://nbviewer.jupyter.org/github/StanfordVL/cs131_notes/blob/master/lecture02/lecture02.pdf)
