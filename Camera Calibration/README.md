@@ -1,6 +1,6 @@
 # Camera Calibration: MATLAB Camera Calibrator : [See complete article](https://bimalka98.github.io/Camera-Calibration)
 
-> For the calibration I designed a Checkerboard pattern myself using Adobe Photoshop, which has 30mmx30mm squares. You can download it from [here](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/checkboard-30mm.pdf). Later I found that out there are checkerboard pattrens readily available on the internet😅. Here is the [link](https://markhedleyjones.com/projects/calibration-checkerboard-collection). Don't waste your time on designning the checkeboard.
+> For the calibration I designed a Checkerboard pattern myself using Adobe Photoshop, which has 30mmx30mm squares. You can download it from [here](checkboard-30mm.pdf). Later I found that out there are checkerboard pattrens readily available on the internet😅. Here is the [link](https://markhedleyjones.com/projects/calibration-checkerboard-collection). Don't waste your time on designning the checkeboard.
 
 ## Useful links
 1. [The Perspective Camera - An Interactive Tour](http://ksimek.github.io/2012/08/13/introduction/)
@@ -10,7 +10,7 @@
 ## With Cropped images
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc.png" />
+  <img src="cc.png" />
 </p>
 
 ```
@@ -71,11 +71,11 @@ Translation vectors (millimeters):
 ```
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showExtrinsics.png" width="700px"/>
+  <img src="showExtrinsics.png" width="700px"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/showReprojectionErrors.png" width="700px" />
+  <img src="showReprojectionErrors.png" width="700px" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Translation vectors (millimeters):
 ## Without Cropping the images
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/cc2.png" />
+  <img src="cc2.png" />
 </p>
 
 ```
@@ -162,7 +162,7 @@ the displacement along the direction of *e*<sub>*i*</sub> basis
 vector(axis). 
 
 <p align="center">
-  <img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration/rotatransmatrices.PNG" />
+  <img src="rotatransmatrices.PNG" />
 </p>
 
 ## Converting Focal Length from Pixels to Millimeters: (Have to be done)
