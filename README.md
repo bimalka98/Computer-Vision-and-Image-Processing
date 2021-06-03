@@ -1,6 +1,6 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> Notice: Following hyperlinks may not work due to error "Error 503 Backend is unhealthy" of nbviewer and I could not figure out a solution. Check the corresponding directories maually for the codes and pdfs.😅
+> Notice: Following hyperlinks ***may not work sometimes*** due to error "Error 503 Backend is unhealthy" of nbviewer and I could not figure out a solution. Check the corresponding directories maually for the codes and pdfs.😅
 
 <!--
 ### *Add Anaconda Prompt to the Windows right click context menu.*
