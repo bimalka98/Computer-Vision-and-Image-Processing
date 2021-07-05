@@ -77,6 +77,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+#video
+.mp4
+
 # IPython
 profile_default/
 ipython_config.py
