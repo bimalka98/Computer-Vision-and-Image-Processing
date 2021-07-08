@@ -1,10 +1,11 @@
-## HTML to ipynb conversion
+## .html to .ipynb conversion
+
+1. Install pandoc (https://pandoc.org/installing.html)
+2. Open power shell in the source html directory. (shift + right click) --> open powershell
+3. Execute the following command.
 
 ```shell
 
-// install pandoc.
-// open power shell in the source html directory.
-// execute the following command.
-> pandoc EN2550_Assignment5.html -o 180631j_en2550_a05.ipynb
+>>> pandoc EN2550_Assignment5.html -o 180xxxx_en2550_a05.ipynb
 
 ```
