@@ -95,8 +95,9 @@ This section contains my solutions for assignments of the EN2550 Fundamentals of
 
 1. EN2550 Assignment 1 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/LaTeX%20Report/180631J_a01.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/180631J_a01.ipynb)
 2. EN2550 Assignment 2 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/LaTeX%20Report/180631J_a02.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/180631J_a02.ipynb)
-3.
+3. N/A
 4. EN2550 Assignment 4 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A4/LaTeX%20Report/180631J_a04.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A4/180631J_a04.ipynb)
+5. EN2550 Assignment 5 [[PDF]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A5/LaTeX%20Report/180631j_en2550_a05.pdf), [[Code]](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A5/180631j_en2550_a05.ipynb)
 
 
 ---
