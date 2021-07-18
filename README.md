@@ -2,6 +2,8 @@
 
 > Notice: Following hyperlinks ***may not work sometimes*** due to error "Error 503 Backend is unhealthy" of nbviewer and I could not figure out a solution. Check the corresponding directories maually for the codes and pdfs.😅
 
+> ***Applications*** section includes only a selected set of algorithms. You may go through the other directories(if you wish 😂) to find out what is there.
+
 <!--
 ### *Add Anaconda Prompt to the Windows right click context menu.*
 
@@ -85,6 +87,8 @@ $ jupyter lab
 |<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/zoom.PNG"  width="600" /> | [Nearest Neighbor and Bi-linear Interpolation methods of Image Zooming](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A1/part3.ipynb)|
 |<img src="https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/Capture.PNG"  width="600" /> | [Normalized Direct Linear Transformation Method for Homography Calculation](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A2/180631J_a02.ipynb#4.-Computing-the-Homogrpahy-Using-Mouse-Clicked-Points-without-OpenCV)|
 |<img src="Camera%20Calibration/showExtrinsics.png"  width="600" /> | [Camera Calibration of a Huawei Y5-2017 Back Camera Using a checkerboard and Camera Calibrator app in MATLAB](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/tree/main/SINGLE%20VIEW%20GEOMETRY/Camera%20Calibration)|
+|<img src="EN2550Assignments/A4/LaTeX%20Report/figures/classes.PNG"  width="600" /> | [CIFAR10 Image Classifiers - Linear Classifier / Two-layer fully connected network / CNN](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A4/180631J_a04.ipynb)|
+|<img src="EN2550Assignments/A5/object_detection.png"  width="600" /> | [Object Counting on a Convey Belt - a Classical Machine Vision approach](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/EN2550Assignments/A5/180631j_en2550_a05.ipynb)|
 
 
 ---
