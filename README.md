@@ -2,7 +2,8 @@
 
 > Notice: Following hyperlinks ***may not work sometimes*** due to error "Error 503 Backend is unhealthy" of nbviewer and I could not figure out a solution. Check the corresponding directories maually for the codes and pdfs.😅
 
-> ***Applications*** section includes only a selected set of algorithms. You may go through the other directories(if you wish 😂) to find out what is there.
+> ***Applications*** section includes only a selected set of algorithms developed by me. You may go through the other directories(if you wish) to find out what is there. *Note that some of them may not complete.* 😁
+
 
 <!--
 ### *Add Anaconda Prompt to the Windows right click context menu.*
@@ -22,7 +23,6 @@
 3. [Applications](#applications)
 4. [Assignments](#assignments)
 5. [References](#references-)
-6. [License](#license)
 
 ---
 
@@ -113,8 +113,3 @@ This section contains my solutions for assignments of the EN2550 Fundamentals of
 3. Computer Vision Algorithms and Applications by *Richard Szeliski*
 4. Multiple View Geometry in Computer Vision(Second Edition)  by *Richard Hartley* and *Andrew Zisserman*
 5. [MatPlotLib Cheat Sheet](https://nbviewer.jupyter.org/github/bimalka98/Computer-Vision-and-Image-Processing/blob/main/matplotlib-cheatsheet.pdf)
-6. [Stanford's CS131 Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
-
-## *LICENSE*
-
-[MIT License Copyright (c) 2021 BIMALKA PIYARUWAN](https://github.com/bimalka98/Computer-Vision-and-Image-Processing/blob/main/LICENSE)
